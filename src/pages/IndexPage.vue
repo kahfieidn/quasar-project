@@ -41,7 +41,7 @@ export default {
     return {
       name: 'Jenny',
       age: 13,
-      names: ['Kahfi', 'John', 'Rick']
+      names: ['Kahfi', 'John', 'Rick', 'Lisa']
     }
   },
   computed: {
